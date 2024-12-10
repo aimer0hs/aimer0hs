@@ -1,16 +1,16 @@
 # 👋 Hello, World!
 
-Welcoe to my GitHub corner! I’m [Your Friend's Name], a [Your Friend's Profession or Title] based in [Location]. My journey in tech has been a thrilling ride, and I’m excited to share it with you.
+Welcoe to my GitHub corner! I’m Aimer, a learning by curiosity based in iran for now. My journey in tech has been a thrilling ride, and I’m excited to share it with you.
 
 ## 🌟 Who Am I?
 
-I’m a [describe your friend’s profession, e.g., “full-stack developer,” “data enthusiast,” etc.] who loves turning ideas into reality through code. When I’m not coding, you can find me [mention hobbies or interests, e.g., “hiking,” “exploring new coffee shops,” etc.].
+I’m a part time nerd into data science machine learning maybe AI game-dev(no expirience till mo :( ) who loves turning ideas into reality through code. When I’m not coding, you can find me adrenaline station such as sky diving playing games.
 
 ## 🧠 My Passion Projects
 
-Here are a few projects that reflect my passion for [mention key interests, e.g., “sustainable tech,” “user experience,” etc.]:
+Here are a few projects that reflect my passion for having new expiriences:
 
-- **[Project Name 1]**: [A brief, engaging description. What problem does it solve? Why is it special?]
+- **[]**: [A brief, engaging description. What problem does it solve? Why is it special?]
 - **[Project Name 2]**: [Highlight any unique features or technologies used.]
 - **[Project Name 3]**: [Include any personal touch, like a story or inspiration behind the project.]
 
