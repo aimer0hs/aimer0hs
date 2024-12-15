@@ -1,43 +1,75 @@
-# 👋 Hello, World!
+# Hi there, I'm Aimer! 👋
 
-Welcoe to my GitHub corner! I’m Aimer, a learning by curiosity based in iran for now. My journey in tech has been a thrilling ride, and I’m excited to share it with you.
+Welcome to my GitHub! I'm a passionate developer who loves solving problems, creating cool projects, and learning new things. Let's make something amazing together! 🚀
 
-## 🌟 Who Am I?
+---
 
-I’m a part time nerd into data science machine learning maybe AI game-dev(no expirience till mo :( ) who loves turning ideas into reality through code. When I’m not coding, you can find me adrenaline station such as sky diving playing games.
+### 🌟 About Me
 
-## 🧠 My Passion Projects
+- 🔭 Currently working on **Embedded Systems & AVR Development**
+- 🌱 Learning **Microcontrollers, Computer Architecture, and Assembly Programming**
+- 💬 Ask me about **Embedded Systems, AVR, Proteus, and L293D motor control**
+- ⚡ Fun fact: I'm building Tess, an AI-powered assistant, a physical body! 🤖
 
-Here are a few projects that reflect my passion for having new expiriences:
+---
 
-- **[]**: [A brief, engaging description. What problem does it solve? Why is it special?]
-- **[Project Name 2]**: [Highlight any unique features or technologies used.]
-- **[Project Name 3]**: [Include any personal touch, like a story or inspiration behind the project.]
+### 💻 Tech Stack
 
-## 🚀 Skills & Tools
+- **Languages**: C, C++, Assembly, Python, HTML, CSS
+- **Tools**: CodeVision AVR, Proteus, Git, VS Code, Atom
+- **Platforms**: Atmel Studio, Arduino IDE
 
-I’m proficient in:
+---
 
-- **Languages**: [List languages, e.g., Python, JavaScript]
-- **Frameworks & Libraries**: [List frameworks, e.g., React, Django]
-- **Tools**: [List tools, e.g., Git, Docker]
-- **Databases**: [List databases, e.g., PostgreSQL, MongoDB]
+### 🚀 Featured Projects
 
-## 🌱 What I’m Learning
+1. **Motor Control System** 🛠️
+   - ATmega16-based motor control with buttons and L293D driver IC.
+   - Simulated in Proteus, programmed in CodeVision AVR.
 
-Currently, I’m diving into [mention any new technologies, e.g., machine learning, DevOps], and I’m eager to expand my skills in [another area of interest]. If you have any resources or tips, I’d love to hear them!
+2. **Computer Architecture Teaching Materials** 📚
+   - Teaching flip-flops, ALUs, and assembly instructions as a teaching assistant.
 
-## 🤝 Let’s Connect
+3. **Exoplanet Discovery Exploration** 🌟
+   - Individual contributions to analyzing light curves for potential exoplanet discoveries.
+   - Leveraging data from the **TESS** and **Kepler** space telescopes to uncover the mysteries of distant worlds.
 
-I’m always open to new opportunities and collaborations! You can reach me at:
+4. [Explore More on My Repositories!](https://github.com/aimer0hs)
 
-- **LinkedIn**: [Your Friend's LinkedIn URL]
-- **Twitter**: [Your Friend's Twitter Handle]
-- **Email**: [Your Friend's Email Address]
+---
 
-## ✨ A Little Quirk
+### 🌱 Interests
 
-Did you know? [Add a fun fact or quirky detail about your friend, e.g., “I once coded an entire game in a weekend!” or “I have a collection of vintage tech magazines.”]
+I have a deep love for:
 
-Thank you for stopping by! Let’s create something amazing together. 🚀
-m
+- 🌌 **Space**: The vastness of the universe and the mysteries it holds inspire me every day.
+- 🌱 **Plants**: From succulents to lush greenery, plants bring peace and life to my surroundings.
+- 🤖 **Robots**: I enjoy building, designing, and imagining robotic systems.
+- 🧠 **Artificial Intelligence**: Exploring the capabilities of AI and its applications in modern tech excites me.
+- 🏎️ **Adrenaline**: I love doing cool things like skydiving, racing cars, and seeking thrilling adventures.
+- 🐾 **Animals**: I adore all kinds of animals, but I have a special soft spot for cats. 🐱❤️
+- 🧠 **Curiosity**: I'm deeply curious about everything and love learning about psychology, human behavior, and philosophy.
+- 🌟 **Limitless Imagination**: My creativity knows no bounds, and I constantly dream up new possibilities and ideas.
+
+---
+
+### 🤝 Connect with Me
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourprofile)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/yourtelegram)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourinstagram)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aimer0hs)
+
+---
+
+### 🎉 Fun Gifs & Animations
+
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Robot](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+![Embedded Systems](https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif)
+
+---
+
+Let's collaborate and create something awesome! 🚀🌟
