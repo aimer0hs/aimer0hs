@@ -55,7 +55,7 @@ I have a deep love for:
 
 ### 🤝 Connect with Me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aimer.hs872@gmail.com.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aimer.hs872@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhossein-samimi-137aa0341/)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28782436/amirhossein-samimi)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/therealaimer)
