@@ -64,9 +64,6 @@ I have a deep love for:
 
 ---
 
-### 🎉 Fun Gifs & Animations
-
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 ![Robot](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
 ![Embedded Systems](https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif)
 
