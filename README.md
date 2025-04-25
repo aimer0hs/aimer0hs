@@ -9,13 +9,12 @@ Welcome to my GitHub! I'm a passionate developer who loves solving problems, cre
 - 🔭 Currently working on **Embedded Systems & AVR Development**
 - 🌱 Learning **Microcontrollers, Computer Architecture, and Assembly Programming**
 - 💬 Ask me about **Embedded Systems, AVR, Proteus, and L293D motor control**
-- ⚡ Fun fact: I'm building Tess, an AI-powered assistant, a physical body! 🤖
 
 ---
 
 ### 💻 Tech Stack
 
-- **Languages**: C, C++, Assembly, Python, HTML, CSS
+- **Languages**: C, C++, a little Assembly, Python, HTML, CSS
 - **Tools**: CodeVision AVR, Proteus, Git, VS Code, Atom
 - **Platforms**: Atmel Studio, Arduino IDE
 
